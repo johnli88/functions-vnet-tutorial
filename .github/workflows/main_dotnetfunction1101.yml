@@ -39,4 +39,4 @@ jobs:
           app-name: 'DotNetFunction1101'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5823489DD6BF4738BBFB856ABC7F9963 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7563372EE5C34D2CB9D4B884579FDB36 }}
